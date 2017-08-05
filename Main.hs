@@ -6,6 +6,7 @@ module Main where
 
 -- | Miso framework import
 import Miso
+import Miso.String
 
 -- | Type synonym for an application model
 type Model = Int

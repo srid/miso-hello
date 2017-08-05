@@ -1,5 +1,6 @@
 -- | Haskell language pragma
 {-# LANGUAGE RecordWildCards #-}
+{-# LANGUAGE OverloadedStrings #-}
 
 -- | Haskell module declaration
 module Main where
